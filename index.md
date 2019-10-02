@@ -14,3 +14,10 @@ Close-bosomed friend of the maturing sun<br>
   <li> Pour the water in the mug  </li>
   <li> Stir and add milk </li>
 </ol>
+<p>How to make a cup of tea</p>
+<ul>
+  <li> Boil the water  </li>
+  <li> Get a teabag  </li>
+  <li> Pour the water in the mug  </li>
+  <li> Stir and add milk </li>
+</ul>
