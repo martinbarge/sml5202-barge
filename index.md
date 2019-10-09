@@ -21,3 +21,8 @@ Close-bosomed friend of the maturing sun<br>
   <li> Pour the water in the mug  </li>
   <li> Stir and add milk </li>
 </ul>
+
+<p>
+  <a href="page2.html">Page 2</a> <br>
+  <a href="page3.html">Page 3</a>
+</p>
